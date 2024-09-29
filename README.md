@@ -45,9 +45,8 @@ Our car rental system addresses the limitations of manual booking by implementin
 18. TRANSACTION: TRANSACTIONID (PK), AGREEMENTID (FK), TRANSACTION DATE, AMOUNT<br/>
 19. CAR IMAGE: IMAGEID (PK), CARID (FK), IMAGE URL<br/>
 20. DISCOUNT: DISCOUNTID (PK), PERCENTAGE, CATEGORYID (FK), DISCOUNT CODE<br/>
-
 ## Entity-Relationship Diagram
-
+![ERD](https://github.com/user-attachments/assets/5588bc2b-8c06-494f-a141-ccfd666cfd2c)
 ## Physical ERD
-
 ## Relational Schema
+![Relational Schema](https://github.com/user-attachments/assets/35ab92bc-6c95-46fc-94aa-8368731edf58)
