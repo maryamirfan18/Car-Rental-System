@@ -23,16 +23,7 @@ Car Rental System is a car rental company that provides rental services to custo
 The manual booking process in a car rental system is time-consuming, error-prone, and limits access to booking services. It involves manual data entry, paper-based forms, and phone calls, leading to inefficiencies and potential mistakes in bookings. 
 ## Solution
 **AUTOMATED BOOKING SYSTEM**<br/>
-•	Our car rental system overcomes the problem of manual booking by implementing an automated booking system. <br/>
-•	The automated booking system allows customers to make reservations conveniently online or through a user-friendly mobile application. <br/>
-•	The system provides real-time information on vehicle availability, allowing customers to select from a wide range of options and secure their bookings instantly.<br/> 
-•	With an automated booking system, customers can make bookings 24/7, eliminating the limitations of office hours and specific booking locations. <br/>
-•	The system streamlines the reservation process by automating confirmation emails or notifications, reducing the risk of missed bookings or miscommunication. <br/>
-•	It enables customers to easily modify or cancel their reservations online, providing flexibility and convenience. <br/>
-•	The automated booking system also integrates secure online payment processing, allowing customers to make payments electronically, eliminating the need for manual payment 
-•	handling. <br/>
-•	By implementing an automated booking system, our car rental system improves efficiency, accuracy, and customer convenience, enhancing the overall booking experience for both customers and the car rental company.<br/>
-
+Our car rental system addresses the limitations of manual booking by implementing an automated system, enabling customers to make 24/7 reservations online or via a mobile app. It offers real-time vehicle availability, automated confirmations, and easy reservation modifications or cancellations. Secure online payment integration enhances efficiency, accuracy, and customer convenience, streamlining the overall booking process for both customers and the rental company.
 ## Entities and Attributes
 **1. ADMIN:** ADMINID (PK), NAME, CONTACT DETAILS, EMAIL, PASSWORD<br/>
 2. EMPLOYEE: EMPLOYEEID (PK), ADMINID (FK), NAME, EMAIL, CONTACT DETAILS, PASSWORD<br/>
